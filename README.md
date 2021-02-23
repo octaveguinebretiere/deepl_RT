@@ -2,7 +2,6 @@
 
 A code to focus light through a complex medium using a deep neural network and only the reflection matrix in input
 
-The code relies on a 
-test completed
+The code relies on a high-level toolbox for using complex valued networks in Pytorch
 
 
